@@ -1,1 +1,3 @@
 # DVCS-Exercise
+
+Sean Johnson
