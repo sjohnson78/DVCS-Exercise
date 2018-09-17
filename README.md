@@ -14,7 +14,7 @@ MATCHING
 SHORT ANSWER AND MULTIPLE CHOICE
 
     Under which menu item is the Show in Explorer option.
-	- Explorer
+	- Repository
 	
     Under which menu item can you Add or Clone repositories.
 	- File
@@ -25,8 +25,8 @@ SHORT ANSWER AND MULTIPLE CHOICE
     List the four views that you can change to under View.
 	- Changes, history, repository list, branches list.
 
-    List the two items you can edit under Repository ? Repository settings ...
-	- Primary remote repository (origin) and .gitignore
+    List the two items you can edit under Repository -> Repository settings ...
+	- Remote: Primary remote repository (origin) and Ignored files: editing the .gitignore
 
     A remote repository is ________.
         - A code repository that is not on your local computer.
